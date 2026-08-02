@@ -13,40 +13,40 @@ Operations Data Analyst with 2+ years of experience building reports, dashboards
 ## 💼 Experience
 
 ### **Optimum Business**
-**Operations Data Analyst** | *2024 – Present*[cite: 1]
-* Responsible for the end-to-end tracking and reporting of service installations, bridging the gap between field technicians and clients by ensuring data integrity and providing detailed performance reporting and business intelligence[cite: 1].
-* Integrated and automated data flows from ERP/CRM sources into unified reporting structures, reducing manual processing time and boosting agent productivity by 5%[cite: 1].
-* Designed and monitored daily data validation and reconciliation workflows, improving reporting accuracy and providing the visibility needed to help boost successful installation rates from 68% to 74%[cite: 1].
-* Led weekly high-level briefings with clients to present performance data, track installation KPIs, analyze operational trends, and align on project goals[cite: 1].
+**Operations Data Analyst** | *2024 – Present*
+* Responsible for the end-to-end tracking and reporting of service installations, bridging the gap between field technicians and clients by ensuring data integrity and providing detailed performance reporting and business intelligence.
+* Integrated and automated data flows from ERP/CRM sources into unified reporting structures, reducing manual processing time and boosting agent productivity by 5%.
+* Designed and monitored daily data validation and reconciliation workflows, improving reporting accuracy and providing the visibility needed to help boost successful installation rates from 68% to 74%.
+* Led weekly high-level briefings with clients to present performance data, track installation KPIs, analyze operational trends, and align on project goals.
 
 ### **UnitedHealthcare**
-**Phone Customer Service Consultant** | *2022 – 2024*[cite: 1]
-* **Inbound Advisory Support:** Served as the primary point of contact for members and providers, navigating complex inquiries regarding health insurance plans, coverage benefits, and network doctors[cite: 1].
-* Processed prior authorizations and claims, resolving intricate billing, copay, and prescription coverage issues[cite: 1].
+**Phone Customer Service Consultant** | *2022 – 2024*
+* **Inbound Advisory Support:** Served as the primary point of contact for members and providers, navigating complex inquiries regarding health insurance plans, coverage benefits, and network doctors.
+* Processed prior authorizations and claims, resolving intricate billing, copay, and prescription coverage issues.
 
 ### **Samsung Electronics (US & Canada)**
-**Phone Tech Support & Sales** | *2019 – 2022*[cite: 1]
-* Tier 1 & 2 technical troubleshooting while managing service requests for Home Electronics[cite: 1].
-* Handled high-priority customer escalations, negotiating and authorizing financial resolutions including refunds, product returns, and exchanges[cite: 1].
-* Selected to support the Samsung HA Canada division, adapting to region-specific policies, warranty guidelines, and customer service standards[cite: 1].
+**Phone Tech Support & Sales** | *2019 – 2022*
+* Tier 1 & 2 technical troubleshooting while managing service requests for Home Electronics.
+* Handled high-priority customer escalations, negotiating and authorizing financial resolutions including refunds, product returns, and exchanges.
+* Selected to support the Samsung HA Canada division, adapting to region-specific policies, warranty guidelines, and customer service standards.
 
 ---
 
 ## 🛠️ Skills & Tools
-* **Core Competencies:** Data Analysis, Business Operations, Team Leadership[cite: 1]
-* **Technical Stack:** Power BI, Excel, SQL, Python, Azure, Fabric, Git[cite: 1]
+* **Core Competencies:** Data Analysis, Business Operations, Team Leadership
+* **Technical Stack:** Power BI, Excel, SQL, Python, Azure, Fabric, Git
 
 ---
 
 ## 📜 Certifications
-* **Microsoft Certified:** Azure Data Fundamentals[cite: 1]
-* **Microsoft Certified:** Fabric Data Engineer *(Expected August 2026)*[cite: 1]
+* **Microsoft Certified:** Azure Data Fundamentals
+* **Microsoft Certified:** Fabric Data Engineer *(Expected August 2026)*
 
 ---
 
 ## 🎓 Education & Specializations
-* **INTEC** — Coursework toward Bachelor in Software Engineering[cite: 1]
-* **MIT.Learn** — Microeconomics and Applied Economics Certificate[cite: 1]
-* **University of Michigan** — Python for Everybody Specialization[cite: 1]
-* **Microsoft** — Microsoft SQL Server Specialization[cite: 1]
-* **Macquarie University** — Statistics and Data Analysis with Excel Specialization[cite: 1]
+* **INTEC** — Coursework toward Bachelor in Software Engineering
+* **MIT.Learn** — Microeconomics and Applied Economics Certificate
+* **University of Michigan** — Python for Everybody Specialization
+* **Microsoft** — Microsoft SQL Server Specialization
+* **Macquarie University** — Statistics and Data Analysis with Excel Specialization
