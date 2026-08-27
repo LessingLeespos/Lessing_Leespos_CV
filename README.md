@@ -1,5 +1,5 @@
 # Lessing Leespos
-**Power BI | Azure | Fabric | Excel | Data Analyst**
+**Power BI | Azure | Fabric | Excel | Analyst Engineer**
 
 📧 [lessing10one@hotmail.es](mailto:lessing10one@hotmail.es) • 💼 [LinkedIn](https://www.linkedin.com/in/lessing-leespos10one) • 💻 [GitHub Profile](https://github.com/LessingLeespos)
 
@@ -33,14 +33,14 @@ Operations Data Analyst with 2+ years of experience building reports, dashboards
 ---
 
 ## 🛠️ Skills & Tools
-* **Core Competencies:** Data Analysis, Business Operations, Team Leadership
+* **Core Competencies:** Analyst Engineer, Business Operations, Team Leadership
 * **Technical Stack:** Power BI, Excel, SQL, Python, Azure, Fabric, Git
 
 ---
 
 ## 📜 Certifications
+* **Microsoft Certified:** Fabric Data Engineer
 * **Microsoft Certified:** Azure Data Fundamentals
-* **Microsoft Certified:** Fabric Data Engineer *(Expected August 2026)*
 
 ---
 
